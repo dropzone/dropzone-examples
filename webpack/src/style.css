@@ -1,0 +1,12 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  padding: 6rem;
+}
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+.dropzone {
+  border: 4px solid blueviolet;
+  color: blueviolet
+}

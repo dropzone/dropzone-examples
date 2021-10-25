@@ -3,8 +3,6 @@ import Dropzone from "dropzone";
 import "dropzone/dist/dropzone.css";
 import "./style.css";
 
-Dropzone.autoDiscover = false;
-
 const myDropzone = new Dropzone("#my-form");
 
 const output = document.querySelector("#output");

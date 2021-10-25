@@ -12,8 +12,6 @@ $ yarn install
 $ npm install
 ```
 
-whichever you prefer.
-
 ### Build it
 
 Since this depends on webpack, the `dist/main.js` needs to be built:

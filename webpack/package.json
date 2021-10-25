@@ -4,7 +4,7 @@
   "description": "Example project for Dropzone",
   "private": true,
   "dependencies": {
-    "dropzone": "^5.7.6"
+    "dropzone": "^6.0.0-beta.1"
   },
   "devDependencies": {
     "css-loader": "^5.0.2",

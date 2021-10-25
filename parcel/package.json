@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Example project for Dropzone",
   "private": true,
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",

@@ -1,0 +1,18 @@
+{
+  "name": "dropzone-vite-example",
+  "version": "0.0.1",
+  "description": "Example project for Dropzone",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "dropzone": "^6.0.0-beta.2"
+  }
+}
